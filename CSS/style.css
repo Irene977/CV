@@ -16,9 +16,7 @@ hr {
   border-width: 5px;
   width: 5%;
 }
-a{line-height: 8;
-  border-right: 20px;
-  font-weight: bold;
-  padding-left: 20px;
-
+.a1 {line-height: 8;
+font-weight: bold;
+margin:20px;
 }
